@@ -5,6 +5,6 @@ Create a simple countdown timer that looks like this:
 
 The countdown should update every second. Choose any countdown date you want.
 
-Constraints:
+## Constraints:
 1. You may use any JS framework, or no framework at all
 1. Please write CSS without a framework
